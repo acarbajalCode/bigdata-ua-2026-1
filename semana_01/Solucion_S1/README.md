@@ -6,6 +6,7 @@
 ## Como entregar tu solución (lee esto primero)
 
 Cada estudiante debe:
+
 1. Hacer **Fork** del repo del docente
 2. Crear una **rama** con tu nombre: `semana-01-apellido-nombre`
 3. Dentro de esta carpeta, crear **tu propia subcarpeta**: `apellido_nombre/`
